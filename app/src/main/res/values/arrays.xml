@@ -2,20 +2,21 @@
 <resources>
 
     <string-array name="stones">
-        <item>Chess Piece - King</item>
-        <item>Chess Piece - Queen</item>
-        <item>Chess Piece - Bishop</item>
-        <item>Chess Piece - Knight</item>
-        <item>Chess Piece - Rook</item>
-        <item>Chess Piece - Pawn</item>
+        <item>MINECRAFT</item>
+        <item>WARZONE III</item>
+        <item>FIVEM</item>
+        <item>SCGO</item>
+        <item>FORTNITE</item>
+        <item>FC25</item>
     </string-array>
 
     <string-array name="details">
-        <item>The king moves exactly one vacant square in any direction: forwards, backwards, left, right, or diagonally. It can also castle in conjunction with a rook.</item>
-        <item>The queen moves any number of vacant squares in any direction: forwards, backwards, left, right, or diagonally, in a straight line.</item>
-        <item>The bishop moves any number of vacant squares diagonally in a straight line. Consequently, a bishop stays on squares of the same color throughout a game. The two bishops each player starts with move on squares of opposite colors.</item>
-        <item>The knight moves on an extended diagonal from one corner of any 2×3 rectangle of squares to the furthest opposite corner. Consequently, the knight alternates its square color each time it moves. The knight is the only piece that jumps over any intervening piece(s) when moving (castling being the only special instance in which pieces jump over one another).</item>
-        <item>The rook moves any number of vacant squares forwards, backwards, left, or right in a straight line. It also takes part, along with the king, in a special move called castling.</item>
-        <item>The pawn moves forward exactly one space, or optionally, two spaces when on its starting square, toward the opponent\'s side of the board. When there is an enemy piece one square diagonally ahead of the pawn, either left or right, then the pawn may capture that piece. A pawn can perform a special type of capture of an enemy pawn called en passant. If the pawn reaches a square on the back rank of the opponent, it promotes to the player\'s choice of a queen, rook, bishop, or knight</item>
+        <item>
+Minecraft is a 3D sandbox game developed by Mojang Studios where players interact with a fully modifiable three-dimensional environment made of blocks and entities. Its diverse gameplay lets players choose the way they play, allowing for countless possibilities</item>
+        <item>The gigantic Season 3 drop is here, including the return of Rebirth Island, four new weapons, eight Aftermarket Parts, and full Call of Duty: Warzone Mobile integration</item>
+        <item>FiveM is a modification for Grand Theft Auto V enabling you to play multiplayer on customized dedicated servers, powered by Cfx.re. Join the 132.3k people playing right now!</item>
+        <item>The game pits two teams, Terrorists and Counter-Terrorists, against each other in different objective-based game modes. The most common game modes involve the Terrorists planting a bomb while Counter-Terrorists attempt to stop them, or Counter-Terrorists attempting to rescue hostages that the Terrorists have captured</item>
+        <item>Fortnite is an online video game and game platform developed by Epic Games and released in 2017</item>
+        <item>EA Sports FC 25 launched on 27th September 2024 across PlayStation 5, PlayStation 4, Xbox Series X/S, Xbox One, Nintendo Switch and Microsoft Windows</item>
     </string-array>
 </resources>
